@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ran</h1>
-<h3 align="center">A app dev that now is a unreal VR simulation dev</h3>
+<h3 align="center">A app dev that now is a unreal VR simulation dev that is a part of the meamnim group inside the idf</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eiteytrainers&label=Profile%20views&color=0e75b6&style=flat" alt="eiteytrainers" /> </p>
 
